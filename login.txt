@@ -1,0 +1,3 @@
+username & password is writing by default.
+for change user go to user interface and click on any user -> right mouse click -> update user ... now you can see any password for any user and trying every roles
+note: every user have permission for interface specific
